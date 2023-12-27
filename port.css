@@ -85,4 +85,9 @@ body {
   #c3{
     color: black;
   }
+
+.element{
+
+    width:clamp(250px,50%,400px);
+}
  
